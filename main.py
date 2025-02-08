@@ -1,4 +1,3 @@
-##0
 import redis
 import json
 
