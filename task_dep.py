@@ -1,6 +1,3 @@
-
-
-##2
 from collections import defaultdict
 
 task_dependencies = defaultdict(list)  # {task_A: [task_B, task_C]}
