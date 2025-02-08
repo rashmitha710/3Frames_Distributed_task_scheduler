@@ -1,4 +1,3 @@
-##3
 workers = set()
 
 def register_worker(worker_id):
